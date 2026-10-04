@@ -1,12 +1,12 @@
-# Hello, I'm Leire 
+# Hi there, I'm Leire 
 
 <a href="https://www.linkedin.com/in/leire-inchaustegui/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity professional with a background in Computer Engineering, Mechatronics, Software Development, and Networking. I enjoy dissecting complex technical problems and building hands-on projects to understand how systems operate and how to defend them.
+I'm an aspiring cybersecurity professional with a background spanning Computer Engineering, Mechatronics, Software Development, and Networking. I love taking complex technical problems apart, figuring out how systems work (and break), and building hands-on projects to learn how to defend them.
 
 ## Objective
 
-My educational journey and love for solving complex puzzles naturally led me to cybersecurity. Armed with a detective mindset and a passion for figuring out how systems work (and break), I am excited to transition into the field and land a Tier 1 SOC Analyst role, where I can tackle real-world threats and continuously expand my skills in this ever-evolving industry.
+My path through tech and my love for solving complex puzzles naturally drew me to cybersecurity. Armed with a detective mindset, I'm excited to jump into the field and land a Tier 1 SOC Analyst role where I can tackle real-world threats, help defend networks, and keep building my skills every day.
 
 ## Skills
 
@@ -89,5 +89,5 @@ My educational journey and love for solving complex puzzles naturally led me to 
 
 ## Projects
 
-* **Detection Lab**: Active Active Directory environment configured in VirtualBox to ingest endpoint telemetry into Splunk/Wazuh, simulating privilege escalation and pass-the-hash attacks.
-* **SOC Automation Project**: End-to-end incident response automation workflow using Shuffle SOAR to parse alerts, enrich IOCs via VirusTotal, and generate incidents in TheHive.
+* **Detection Lab**: Setting up an Active Directory lab in VirtualBox to send telemetry into Splunk/Wazuh and analyze simulated attacks like credential dumping and pass-the-hash.
+* **SOC Automation Project**: Building a hands-on workflow using Shuffle SOAR to automatically process incoming security alerts, enrich indicators with VirusTotal, and send cases straight into TheHive.
