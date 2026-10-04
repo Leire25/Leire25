@@ -1,8 +1,8 @@
-# Hello, I'm Leire 👋
+# Hello, I'm Leire 
 
 <a href="https://www.linkedin.com/in/leire-inchaustegui/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity professional with a background in Computer Engineering, Mechatronics, Software Development, and Networking. I enjoy dissecting complex technical problems and building hands-on projects to understand how systems operate—and how to defend them.
+I am an aspiring cybersecurity professional with a background in Computer Engineering, Mechatronics, Software Development, and Networking. I enjoy dissecting complex technical problems and building hands-on projects to understand how systems operate and how to defend them.
 
 ## Objective
 
