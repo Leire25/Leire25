@@ -6,7 +6,7 @@ I'm an aspiring cybersecurity professional with a background spanning Computer E
 
 ## Objective
 
-My path through tech and my love for solving complex puzzles naturally drew me to cybersecurity. Armed with a detective mindset, I'm excited to jump into the field and land a Tier 1 SOC Analyst role where I can tackle real-world threats, help defend networks, and keep building my skills every day.
+My path through tech and my love for solving complex puzzles naturally drew me to cybersecurity. Armed with a detective mindset, I'm excited to jump into the field and land an entry-level role as a SOC Analyst (Tier 1), Security Analyst, or Junior Penetration Tester, where I can tackle real-world threats, identify vulnerabilities, and keep building my technical skills every day.
 
 ## Skills
 
