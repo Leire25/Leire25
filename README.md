@@ -12,12 +12,8 @@ My path through tech and my love for solving complex puzzles naturally drew me t
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation & Log Analysis | [Detection Lab](#projects) |
-| Network Traffic Monitoring & Threat Detection | [Detection Lab](#projects) |
-| Security Automation with Shuffle SOAR | [SOC Automation Project](#projects) |
-| Incident Response Planning & Execution | [SOC Automation Project](#projects) |
-| Case Management with TheHive | [SOC Automation Project](#projects) |
-| Scripting & Automation for Threat Mitigation | [SOC Automation Project](#projects) |
+| Firewall-PFSENSE | [Home Lab ](#projects) |
+
 
 ## Tools & Technologies
 
@@ -89,5 +85,4 @@ My path through tech and my love for solving complex puzzles naturally drew me t
 
 ## Projects
 
-* **Detection Lab**: Setting up an Active Directory lab in VirtualBox to send telemetry into Splunk/Wazuh and analyze simulated attacks like credential dumping and pass-the-hash.
-* **SOC Automation Project**: Building a hands-on workflow using Shuffle SOAR to automatically process incoming security alerts, enrich indicators with VirusTotal, and send cases straight into TheHive.
+* **Home Lab **: Built a virtual network security lab using pfSense in VirtualBox, with separate WAN and LAN segments connecting Kali Linux and Ubuntu. Simulated DoS traffic using hping3, analyzed network traffic with Wireshark, and configured pfSense firewall rules to mitigate the attack and review security logs.
