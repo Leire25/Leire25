@@ -76,13 +76,14 @@ My path through tech and my love for solving complex puzzles naturally drew me t
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3A2F?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Network%20Support%20%26%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+**Currently preparing:** CompTIA Security+ (SY0-701)
+
 ## Projects
 
-* **Home Lab **: Built a virtual network security lab using pfSense in VirtualBox, with separate WAN and LAN segments connecting Kali Linux and Ubuntu. Simulated DoS traffic using hping3, analyzed network traffic with Wireshark, and configured pfSense firewall rules to mitigate the attack and review security logs.
+* **pfSense Firewall & Network Security Lab**: Built a virtual network security lab using pfSense in VirtualBox, with separate WAN and LAN segments connecting Kali Linux and Ubuntu. Simulated DoS traffic using hping3, analyzed network traffic with Wireshark, and configured pfSense firewall rules to mitigate the attack and review security logs.
