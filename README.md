@@ -12,7 +12,7 @@ My path through tech and my love for solving complex puzzles naturally drew me t
 
 | Skill | Associated Project |
 |---|---|
-| Firewall / pfSense | [pfSense Firewall & Network Security Lab](https://github.com/Leire25/pfsense-firewall-lab) |
+| Firewall / pfSense | [pfSense Firewall & Network Security Lab](https://github.com/Leire25/Firewall-PFSENSE) |
 
 
 ## Tools & Technologies
@@ -86,4 +86,4 @@ My path through tech and my love for solving complex puzzles naturally drew me t
 
 ## Projects
 
-* **[pfSense Firewall & Network Security Lab](https://github.com/YOUR-USERNAME/pfsense-firewall-lab)**: Built a virtual network security lab using pfSense in VirtualBox, with separate WAN and LAN segments connecting Kali Linux and Ubuntu. Simulated controlled DoS traffic using `hping3`, analyzed network traffic with Wireshark, and configured pfSense firewall rules to mitigate the traffic and review security logs.
+* **[pfSense Firewall & Network Security Lab](https://github.com/Leire25/Firewall-PFSENSE)**: Built a virtual network security lab using pfSense in VirtualBox, with separate WAN and LAN segments connecting Kali Linux and Ubuntu. Simulated controlled DoS traffic using `hping3`, analyzed network traffic with Wireshark, and configured pfSense firewall rules to mitigate the traffic and review security logs.
